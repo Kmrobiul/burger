@@ -1,0 +1,144 @@
+/*************************************
+* Responsive media queries cod
+*************************************/
+
+/*most of the mobile phone code*/
+
+@media(min-width:320px) and (max-width:480px){
+    .menu .navbar-light .navbar-nav .nav-link.active {
+        background: url(../images/bor.png) left bottom no-repeat;
+       
+    }
+
+    .menu .navbar-light .navbar-nav .nav-link:hover{
+        background: url(../images/bor.png) left bottom no-repeat; 
+    }
+
+    .menu .navbar-light .navbar-nav .nav-link {
+        font-size: 17px;
+      
+    }
+    .banner {
+        padding: 40px 0px 55px;
+    }
+
+    .banner h2 {
+        font-size: 30px;
+        line-height: 40px;
+    }
+
+    .banner p {
+        font-size: 13px;
+    }
+
+    .inner-btn{
+        padding: 20px 0px 0px;
+    }
+
+    .inner-btn .btn-primary {
+        padding: 14px 12px;
+        font-size: 11px
+    }
+
+    .inner-btn .btn-info {
+        padding: 14px 12px;
+        font-size: 12px;
+    }
+    
+
+
+
+}
+
+
+/*most of the mobile phone and low resulation tablet phone code*/
+
+@media(min-width:481px) and (max-width:767px){
+    .menu .navbar-light .navbar-nav .nav-link.active {
+        background: url(../images/bor.png) left bottom no-repeat;
+       
+    }
+
+    .menu .navbar-light .navbar-nav .nav-link:hover{
+        background: url(../images/bor.png) left bottom no-repeat; 
+    }
+
+    .menu .navbar-light .navbar-nav .nav-link {
+        font-size: 17px;
+      
+    }
+    .banner {
+        padding: 40px 0px 55px;
+    }
+
+    .banner h2 {
+        font-size: 30px;
+        line-height: 40px;
+    }
+
+    .banner p {
+        font-size: 13px;
+    }
+
+    .inner-btn{
+        padding: 20px 0px 0px;
+    }
+
+    .inner-btn .btn-primary {
+        padding: 14px 12px;
+        font-size: 11px
+    }
+
+    .inner-btn .btn-info {
+        padding: 14px 12px;
+        font-size: 12px;
+    }
+    
+}
+
+
+/*most of the tablet  phone and mini notebook code*/
+
+@media(min-width:768px) and (max-width:1024px){
+    .menu .navbar-light .navbar-nav .nav-link.active {
+        background: url(../images/bor.png) left bottom no-repeat;
+       
+    }
+
+    .menu .navbar-light .navbar-nav .nav-link:hover{
+        background: url(../images/bor.png) left bottom no-repeat; 
+    }
+
+    .menu .navbar-light .navbar-nav .nav-link {
+        font-size: 17px;
+      
+    }
+    .banner {
+        padding: 40px 0px 55px;
+    }
+
+    .banner h2 {
+        font-size: 30px;
+        line-height: 40px;
+    }
+
+    .banner p {
+        font-size: 13px;
+    }
+
+    .inner-btn{
+        padding: 20px 0px 0px;
+    }
+
+    .inner-btn .btn-primary {
+        padding: 14px 12px;
+        font-size: 11px
+    }
+
+    .inner-btn .btn-info {
+        padding: 14px 12px;
+        font-size: 12px;
+    }
+    
+    
+}
